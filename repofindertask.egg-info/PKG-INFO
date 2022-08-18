@@ -2,10 +2,7 @@ Metadata-Version: 2.1
 Name: repofindertask
 Version: 0.0.1
 Summary: CLI to display current repository files path and languages.
-Home-page: https://github.com/Navneet777/Repofindertask
-Author: Navneet Chourasia
-Author-email: navneetchourasiabgt@gmail.com
-License: MIT
+Home-page: https://github.com/sreekantht07/repofindertask
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
@@ -21,7 +18,7 @@ CLI to display current repository files path and languages.
 Installation Process
 
 Clone Repository in Local.
-Command :- git clone https://github.com/Navneet777/Repofindertask.git
+Command :- git clone https://github.com/sreekantht07/repofindertask
 
 GO inside directory Repofindertask
 

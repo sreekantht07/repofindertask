@@ -5,7 +5,7 @@ CLI to display current repository files path and languages.
 Installation Process
 
 Clone Repository in Local.
-Command :- git clone https://github.com/Navneet777/Repofindertask.git
+Command :- git clone https://github.com/sreekantht07/repofindertask
 
 GO inside directory Repofindertask
 
