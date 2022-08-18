@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+Repofindertask/Repofindertask.py
+Repofindertask/__init__.py
+repofindertask.egg-info/PKG-INFO
+repofindertask.egg-info/SOURCES.txt
+repofindertask.egg-info/dependency_links.txt
+repofindertask.egg-info/entry_points.txt
+repofindertask.egg-info/requires.txt
+repofindertask.egg-info/top_level.txt

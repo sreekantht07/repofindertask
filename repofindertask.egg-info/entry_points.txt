@@ -1,0 +1,3 @@
+[console_scripts]
+repofinder = Repofindertask.Repofindertask:main
+
